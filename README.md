@@ -1,0 +1,1 @@
+# This repo is created to test git on Linux via SSH.
